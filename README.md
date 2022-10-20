@@ -1,4 +1,4 @@
-# 04 Point of sale
+ Point of sale API
 
 A very basic Django project that uses Django Rest Framework to provide a RESTful API for a point of sale that let's you track the inventory of products and the orders done.
 
